@@ -5,8 +5,8 @@
 
 
 
-[npm-image]: https://img.shields.io/npm/v/chavinci-core.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/chavinci-core
+[npm-image]: https://img.shields.io/npm/v/npm.svg?logo=npm
+[npm-url]: https://npmjs.org/package/chavinci-ops
 
 
 ## Installation
