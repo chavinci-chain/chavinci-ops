@@ -1,0 +1,30 @@
+{
+  "name": "chavinci-ops",
+  "version": "1.4.1",
+  "description": "chavinci OP codes",
+  "author": "Chavinci Network",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chavinci-chain/chavinci-ops.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chavinci-chain/chavinci-ops/issues"
+  },
+  "homepage": "https://github.com/chavinci-chain/chavinci-ops",
+  "keywords": [
+    "opcodes",
+    "ops",
+    "chavinci-ops",
+    "chavinci"
+  ],
+  "files": [
+    "index.json",
+    "map.js"
+  ],
+  "main": "./index.json",
+  "scripts": {},
+  "devDependencies": {
+    "standard": "*"
+  }
+}
